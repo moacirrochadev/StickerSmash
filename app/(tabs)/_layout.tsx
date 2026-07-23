@@ -29,6 +29,7 @@ export default function TabLayout() {
                     ),
                 }}
             />
+            {/* About Screen */}
             <Tabs.Screen
                 name="about"
                 options={{
